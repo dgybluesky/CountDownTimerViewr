@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- style for MaterialRefreshLayout  -->
+    <declare-styleable name="CountDownTimerViewLayout">
+        <attr name="text_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="day_link" format="string"/>
+        <attr name="hour_link" format="string"/>
+        <attr name="minute_link" format="string"/>
+        <attr name="second_link" format="string"/>
+        <attr name="end_tips" format="string"/>
+    </declare-styleable>
+</resources>
